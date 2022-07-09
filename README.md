@@ -1,5 +1,7 @@
 # go-socks5-server
 
+[![](https://img.shields.io/github/v/release/ichenhe/go-socks5-server?include_prereleases&style=flat-square)](https://github.com/ichenhe/go-socks5-server/releases) [![](https://img.shields.io/docker/v/ichenhe/go-socks5-server?label=docker&style=flat-square)](https://hub.docker.com/r/ichenhe/go-socks5-server)
+
 Simple socks5 server based on [things-go/go-socks5](https://github.com/things-go/go-socks5). Supports anonymous access or multi-user authentication.
 
 ## Quick Start
